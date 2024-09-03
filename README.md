@@ -29,6 +29,8 @@ An AI-driven web scraper completely developed in Python. This project leverages 
 
 #after saving all the files you run: streamlit run main.py
 
+#Also dont forget to replace the bright data key with your own key that you can create for free after signing in on bright data, in the scrape.py file 
+
 #in the terminal and it will automatically navigate you to the page
  
 ## Contributing
